@@ -1,13 +1,14 @@
 Serverless API Example
 ======================
 
-This folder contains all the files you'll need to create our serverless AI example
+A simple example of creating a sample REST API with AWS Serverless framework.
+A guide can be found here.
+https://justnewsource.wordpress.com/2020/08/12/serverless-backend-api-with-aws-in-2-hours/
  
 Installing Required Modules:
 ----------------------------
-
- - To deploy the API, you will need to have serverless framework and AWS CLI installed and configure the necessary IAM Policies. For more info please refer ...
- - Type `npm install` in console.
+ - Type `npm install` in console
+ - To deploy the API, you will need to have serverless framework and AWS CLI installed and configure the necessary IAM Policies. For more info please refer to the guide linked above.
 
 Deploy the API:
 -------------------
